@@ -2,7 +2,7 @@
 
 ### <a id="documentation-body"></a>
 
-![Hackolade image](/New%20Model%20documentation/image1.png?raw=true)
+![Hackolade image](/erd/image1.png?raw=true)
 
 MongoDB Physical Model
 ----------------------
@@ -19,7 +19,7 @@ File name:
 
 File path:
 
-Printed On: Tue Jan 19 2021 14:12:34 GMT+0700 (Indochina Time)
+Printed On: Tue Jan 19 2021 14:20:31 GMT+0700 (Indochina Time)
 
 Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoSQL and multimodel databases
 
@@ -62,7 +62,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 1.1.1 **New Model** Entity Relationship Diagram
 
-![Hackolade image](/New%20Model%20documentation/image2.png?raw=true)
+![Hackolade image](/erd/image2.png?raw=true)
 
 ##### 1.1.2 **New Model** Properties
 
@@ -78,7 +78,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ### <a id="5eb3bee0-5a25-11eb-a046-d590fdb8e2e4"></a>2.1 Database **sunpay**
 
-![Hackolade image](/New%20Model%20documentation/image3.png?raw=true)
+![Hackolade image](/erd/image3.png?raw=true)
 
 ##### 2.1.1 **sunpay** Properties
 
@@ -90,7 +90,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.1 **customer** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image4.png?raw=true)
+![Hackolade image](/erd/image4.png?raw=true)
 
 ##### 2.1.2.1.2 **customer** Properties
 
@@ -104,7 +104,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image5.png?raw=true)
+![Hackolade image](/erd/image5.png?raw=true)
 
 ##### 2.1.2.1.3.1.2 **\_id** properties
 
@@ -114,7 +114,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image6.png?raw=true)
+![Hackolade image](/erd/image6.png?raw=true)
 
 ##### 2.1.2.1.3.2.2 **created\_at** properties
 
@@ -124,7 +124,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image7.png?raw=true)
+![Hackolade image](/erd/image7.png?raw=true)
 
 ##### 2.1.2.1.3.3.2 **updated\_at** properties
 
@@ -134,7 +134,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.4.1 **name** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image8.png?raw=true)
+![Hackolade image](/erd/image8.png?raw=true)
 
 ##### 2.1.2.1.3.4.2 **name** properties
 
@@ -144,7 +144,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.5.1 **email** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image9.png?raw=true)
+![Hackolade image](/erd/image9.png?raw=true)
 
 ##### 2.1.2.1.3.5.2 **email** properties
 
@@ -154,7 +154,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.6.1 **avatar** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image10.png?raw=true)
+![Hackolade image](/erd/image10.png?raw=true)
 
 ##### 2.1.2.1.3.6.2 **avatar** properties
 
@@ -164,7 +164,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.7.1 **phone** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image11.png?raw=true)
+![Hackolade image](/erd/image11.png?raw=true)
 
 ##### 2.1.2.1.3.7.2 **phone** properties
 
@@ -174,7 +174,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.8.1 **verified** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image12.png?raw=true)
+![Hackolade image](/erd/image12.png?raw=true)
 
 ##### 2.1.2.1.3.8.2 **verified** properties
 
@@ -184,7 +184,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.9.1 **accrue\_point** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image13.png?raw=true)
+![Hackolade image](/erd/image13.png?raw=true)
 
 ##### 2.1.2.1.3.9.2 **accrue\_point** properties
 
@@ -194,7 +194,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.10.1 **balance** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image14.png?raw=true)
+![Hackolade image](/erd/image14.png?raw=true)
 
 ##### 2.1.2.1.3.10.2 **balance** properties
 
@@ -204,7 +204,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.11.1 **fname** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image15.png?raw=true)
+![Hackolade image](/erd/image15.png?raw=true)
 
 ##### 2.1.2.1.3.11.2 **fname** properties
 
@@ -214,7 +214,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.12.1 **lname** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image16.png?raw=true)
+![Hackolade image](/erd/image16.png?raw=true)
 
 ##### 2.1.2.1.3.12.2 **lname** properties
 
@@ -224,7 +224,7 @@ Created with: [Hackolade](https://hackolade.com/) - Visual data modeling for NoS
 
 ##### 2.1.2.1.3.13.1 **uid** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image17.png?raw=true)
+![Hackolade image](/erd/image17.png?raw=true)
 
 ##### 2.1.2.1.3.13.2 **uid** properties
 
@@ -400,7 +400,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.1 **news** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image18.png?raw=true)
+![Hackolade image](/erd/image18.png?raw=true)
 
 ##### 2.1.2.2.2 **news** Properties
 
@@ -414,7 +414,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image19.png?raw=true)
+![Hackolade image](/erd/image19.png?raw=true)
 
 ##### 2.1.2.2.3.1.2 **\_id** properties
 
@@ -424,7 +424,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image20.png?raw=true)
+![Hackolade image](/erd/image20.png?raw=true)
 
 ##### 2.1.2.2.3.2.2 **created\_at** properties
 
@@ -434,7 +434,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image21.png?raw=true)
+![Hackolade image](/erd/image21.png?raw=true)
 
 ##### 2.1.2.2.3.3.2 **updated\_at** properties
 
@@ -444,7 +444,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.4.1 **title** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image22.png?raw=true)
+![Hackolade image](/erd/image22.png?raw=true)
 
 ##### 2.1.2.2.3.4.2 **title** properties
 
@@ -454,7 +454,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.5.1 **content** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image23.png?raw=true)
+![Hackolade image](/erd/image23.png?raw=true)
 
 ##### 2.1.2.2.3.5.2 **content** properties
 
@@ -464,7 +464,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.6.1 **publish** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image24.png?raw=true)
+![Hackolade image](/erd/image24.png?raw=true)
 
 ##### 2.1.2.2.3.6.2 **publish** properties
 
@@ -474,7 +474,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.7.1 **thumb** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image25.png?raw=true)
+![Hackolade image](/erd/image25.png?raw=true)
 
 ##### 2.1.2.2.3.7.2 **thumb** properties
 
@@ -484,7 +484,7 @@ db.customer.createIndex(
 
 ##### 2.1.2.2.3.8.1 **url** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image26.png?raw=true)
+![Hackolade image](/erd/image26.png?raw=true)
 
 ##### 2.1.2.2.3.8.2 **url** properties
 
@@ -623,7 +623,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.1 **notification** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image27.png?raw=true)
+![Hackolade image](/erd/image27.png?raw=true)
 
 ##### 2.1.2.3.2 **notification** Properties
 
@@ -637,7 +637,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image28.png?raw=true)
+![Hackolade image](/erd/image28.png?raw=true)
 
 ##### 2.1.2.3.3.1.2 **\_id** properties
 
@@ -647,7 +647,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image29.png?raw=true)
+![Hackolade image](/erd/image29.png?raw=true)
 
 ##### 2.1.2.3.3.2.2 **created\_at** properties
 
@@ -657,7 +657,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image30.png?raw=true)
+![Hackolade image](/erd/image30.png?raw=true)
 
 ##### 2.1.2.3.3.3.2 **updated\_at** properties
 
@@ -667,7 +667,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.4.1 **type** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image31.png?raw=true)
+![Hackolade image](/erd/image31.png?raw=true)
 
 ##### 2.1.2.3.3.4.2 **type** properties
 
@@ -677,7 +677,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.5.1 **title** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image32.png?raw=true)
+![Hackolade image](/erd/image32.png?raw=true)
 
 ##### 2.1.2.3.3.5.2 **title** properties
 
@@ -687,7 +687,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.6.1 **content** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image33.png?raw=true)
+![Hackolade image](/erd/image33.png?raw=true)
 
 ##### 2.1.2.3.3.6.2 **content** properties
 
@@ -697,7 +697,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.7.1 **url** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image34.png?raw=true)
+![Hackolade image](/erd/image34.png?raw=true)
 
 ##### 2.1.2.3.3.7.2 **url** properties
 
@@ -707,7 +707,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.8.1 **created\_by** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image35.png?raw=true)
+![Hackolade image](/erd/image35.png?raw=true)
 
 ##### 2.1.2.3.3.8.2 **created\_by** properties
 
@@ -717,7 +717,7 @@ db.news.createIndex(
 
 ##### 2.1.2.3.3.9.1 **hidden\_uids** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image36.png?raw=true)
+![Hackolade image](/erd/image36.png?raw=true)
 
 ##### 2.1.2.3.3.9.2 **hidden\_uids** Hierarchy
 
@@ -735,7 +735,7 @@ Child field(s):
 
 ##### 2.1.2.3.3.10.1 **\[0\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image37.png?raw=true)
+![Hackolade image](/erd/image37.png?raw=true)
 
 ##### 2.1.2.3.3.10.2 **\[0\]** properties
 
@@ -745,7 +745,7 @@ Child field(s):
 
 ##### 2.1.2.3.3.11.1 **oneOf** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image38.png?raw=true)
+![Hackolade image](/erd/image38.png?raw=true)
 
 ##### 2.1.2.3.3.11.2 **oneOf** Hierarchy
 
@@ -763,7 +763,7 @@ Child field(s):
 
 ##### 2.1.2.3.3.12.1 **\[0\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image39.png?raw=true)
+![Hackolade image](/erd/image39.png?raw=true)
 
 ##### 2.1.2.3.3.12.2 **\[0\]** Hierarchy
 
@@ -781,7 +781,7 @@ Child field(s):
 
 ##### 2.1.2.3.3.13.1 **uid** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image40.png?raw=true)
+![Hackolade image](/erd/image40.png?raw=true)
 
 ##### 2.1.2.3.3.13.2 **uid** Hierarchy
 
@@ -799,7 +799,7 @@ Child field(s):
 
 ##### 2.1.2.3.3.14.1 **\[0\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image41.png?raw=true)
+![Hackolade image](/erd/image41.png?raw=true)
 
 ##### 2.1.2.3.3.14.2 **\[0\]** properties
 
@@ -809,7 +809,7 @@ Child field(s):
 
 ##### 2.1.2.3.3.15.1 **\[1\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image42.png?raw=true)
+![Hackolade image](/erd/image42.png?raw=true)
 
 ##### 2.1.2.3.3.15.2 **\[1\]** Hierarchy
 
@@ -827,7 +827,7 @@ Child field(s):
 
 ##### 2.1.2.3.3.16.1 **uid** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image43.png?raw=true)
+![Hackolade image](/erd/image43.png?raw=true)
 
 ##### 2.1.2.3.3.16.2 **uid** properties
 
@@ -1038,7 +1038,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.1 **order** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image44.png?raw=true)
+![Hackolade image](/erd/image44.png?raw=true)
 
 ##### 2.1.2.4.2 **order** Properties
 
@@ -1052,7 +1052,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image45.png?raw=true)
+![Hackolade image](/erd/image45.png?raw=true)
 
 ##### 2.1.2.4.3.1.2 **\_id** properties
 
@@ -1062,7 +1062,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image46.png?raw=true)
+![Hackolade image](/erd/image46.png?raw=true)
 
 ##### 2.1.2.4.3.2.2 **created\_at** properties
 
@@ -1072,7 +1072,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image47.png?raw=true)
+![Hackolade image](/erd/image47.png?raw=true)
 
 ##### 2.1.2.4.3.3.2 **updated\_at** properties
 
@@ -1082,7 +1082,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.4.1 **name** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image48.png?raw=true)
+![Hackolade image](/erd/image48.png?raw=true)
 
 ##### 2.1.2.4.3.4.2 **name** properties
 
@@ -1092,7 +1092,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.5.1 **amount** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image49.png?raw=true)
+![Hackolade image](/erd/image49.png?raw=true)
 
 ##### 2.1.2.4.3.5.2 **amount** properties
 
@@ -1102,7 +1102,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.6.1 **discount\_amount** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image50.png?raw=true)
+![Hackolade image](/erd/image50.png?raw=true)
 
 ##### 2.1.2.4.3.6.2 **discount\_amount** properties
 
@@ -1112,7 +1112,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.7.1 **machine\_type** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image51.png?raw=true)
+![Hackolade image](/erd/image51.png?raw=true)
 
 ##### 2.1.2.4.3.7.2 **machine\_type** properties
 
@@ -1122,7 +1122,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.8.1 **machine\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image52.png?raw=true)
+![Hackolade image](/erd/image52.png?raw=true)
 
 ##### 2.1.2.4.3.8.2 **machine\_id** properties
 
@@ -1132,7 +1132,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.9.1 **promotion\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image53.png?raw=true)
+![Hackolade image](/erd/image53.png?raw=true)
 
 ##### 2.1.2.4.3.9.2 **promotion\_id** properties
 
@@ -1142,7 +1142,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.10.1 **ref\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image54.png?raw=true)
+![Hackolade image](/erd/image54.png?raw=true)
 
 ##### 2.1.2.4.3.10.2 **ref\_id** properties
 
@@ -1152,7 +1152,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.11.1 **uid** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image55.png?raw=true)
+![Hackolade image](/erd/image55.png?raw=true)
 
 ##### 2.1.2.4.3.11.2 **uid** properties
 
@@ -1162,7 +1162,7 @@ db.notification.createIndex(
 
 ##### 2.1.2.4.3.12.1 **status** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image56.png?raw=true)
+![Hackolade image](/erd/image56.png?raw=true)
 
 ##### 2.1.2.4.3.12.2 **status** properties
 
@@ -1339,7 +1339,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.1 **promotion** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image57.png?raw=true)
+![Hackolade image](/erd/image57.png?raw=true)
 
 ##### 2.1.2.5.2 **promotion** Properties
 
@@ -1353,7 +1353,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image58.png?raw=true)
+![Hackolade image](/erd/image58.png?raw=true)
 
 ##### 2.1.2.5.3.1.2 **\_id** properties
 
@@ -1363,7 +1363,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image59.png?raw=true)
+![Hackolade image](/erd/image59.png?raw=true)
 
 ##### 2.1.2.5.3.2.2 **created\_at** properties
 
@@ -1373,7 +1373,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image60.png?raw=true)
+![Hackolade image](/erd/image60.png?raw=true)
 
 ##### 2.1.2.5.3.3.2 **updated\_at** properties
 
@@ -1383,7 +1383,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.4.1 **title** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image61.png?raw=true)
+![Hackolade image](/erd/image61.png?raw=true)
 
 ##### 2.1.2.5.3.4.2 **title** properties
 
@@ -1393,7 +1393,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.5.1 **content** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image62.png?raw=true)
+![Hackolade image](/erd/image62.png?raw=true)
 
 ##### 2.1.2.5.3.5.2 **content** properties
 
@@ -1403,7 +1403,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.6.1 **code** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image63.png?raw=true)
+![Hackolade image](/erd/image63.png?raw=true)
 
 ##### 2.1.2.5.3.6.2 **code** properties
 
@@ -1413,7 +1413,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.7.1 **amount** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image64.png?raw=true)
+![Hackolade image](/erd/image64.png?raw=true)
 
 ##### 2.1.2.5.3.7.2 **amount** properties
 
@@ -1423,7 +1423,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.8.1 **percent** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image65.png?raw=true)
+![Hackolade image](/erd/image65.png?raw=true)
 
 ##### 2.1.2.5.3.8.2 **percent** properties
 
@@ -1433,7 +1433,7 @@ db.order.createIndex(
 
 ##### 2.1.2.5.3.9.1 **machine\_types** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image66.png?raw=true)
+![Hackolade image](/erd/image66.png?raw=true)
 
 ##### 2.1.2.5.3.9.2 **machine\_types** Hierarchy
 
@@ -1451,7 +1451,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.10.1 **\[0\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image67.png?raw=true)
+![Hackolade image](/erd/image67.png?raw=true)
 
 ##### 2.1.2.5.3.10.2 **\[0\]** properties
 
@@ -1461,7 +1461,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.11.1 **start\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image68.png?raw=true)
+![Hackolade image](/erd/image68.png?raw=true)
 
 ##### 2.1.2.5.3.11.2 **start\_at** properties
 
@@ -1471,7 +1471,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.12.1 **end\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image69.png?raw=true)
+![Hackolade image](/erd/image69.png?raw=true)
 
 ##### 2.1.2.5.3.12.2 **end\_at** properties
 
@@ -1481,7 +1481,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.13.1 **oneOf** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image70.png?raw=true)
+![Hackolade image](/erd/image70.png?raw=true)
 
 ##### 2.1.2.5.3.13.2 **oneOf** Hierarchy
 
@@ -1499,7 +1499,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.14.1 **\[0\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image71.png?raw=true)
+![Hackolade image](/erd/image71.png?raw=true)
 
 ##### 2.1.2.5.3.14.2 **\[0\]** Hierarchy
 
@@ -1517,7 +1517,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.15.1 **machines** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image72.png?raw=true)
+![Hackolade image](/erd/image72.png?raw=true)
 
 ##### 2.1.2.5.3.15.2 **machines** properties
 
@@ -1527,7 +1527,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.16.1 **\[1\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image73.png?raw=true)
+![Hackolade image](/erd/image73.png?raw=true)
 
 ##### 2.1.2.5.3.16.2 **\[1\]** Hierarchy
 
@@ -1545,7 +1545,7 @@ Child field(s):
 
 ##### 2.1.2.5.3.17.1 **machines** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image74.png?raw=true)
+![Hackolade image](/erd/image74.png?raw=true)
 
 ##### 2.1.2.5.3.17.2 **machines** properties
 
@@ -1768,7 +1768,7 @@ db.promotion.createIndex(
 
 ##### 2.1.2.6.1 **push\_token** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image75.png?raw=true)
+![Hackolade image](/erd/image75.png?raw=true)
 
 ##### 2.1.2.6.2 **push\_token** Properties
 
@@ -1782,7 +1782,7 @@ db.promotion.createIndex(
 
 ##### 2.1.2.6.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image76.png?raw=true)
+![Hackolade image](/erd/image76.png?raw=true)
 
 ##### 2.1.2.6.3.1.2 **\_id** properties
 
@@ -1792,7 +1792,7 @@ db.promotion.createIndex(
 
 ##### 2.1.2.6.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image77.png?raw=true)
+![Hackolade image](/erd/image77.png?raw=true)
 
 ##### 2.1.2.6.3.2.2 **created\_at** properties
 
@@ -1802,7 +1802,7 @@ db.promotion.createIndex(
 
 ##### 2.1.2.6.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image78.png?raw=true)
+![Hackolade image](/erd/image78.png?raw=true)
 
 ##### 2.1.2.6.3.3.2 **updated\_at** properties
 
@@ -1812,7 +1812,7 @@ db.promotion.createIndex(
 
 ##### 2.1.2.6.3.4.1 **uid** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image79.png?raw=true)
+![Hackolade image](/erd/image79.png?raw=true)
 
 ##### 2.1.2.6.3.4.2 **uid** properties
 
@@ -1822,7 +1822,7 @@ db.promotion.createIndex(
 
 ##### 2.1.2.6.3.5.1 **token** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image80.png?raw=true)
+![Hackolade image](/erd/image80.png?raw=true)
 
 ##### 2.1.2.6.3.5.2 **token** properties
 
@@ -1936,7 +1936,7 @@ db.push_token.createIndex(
 
 ##### 2.1.2.7.1 **store** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image81.png?raw=true)
+![Hackolade image](/erd/image81.png?raw=true)
 
 ##### 2.1.2.7.2 **store** Properties
 
@@ -1950,7 +1950,7 @@ db.push_token.createIndex(
 
 ##### 2.1.2.7.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image82.png?raw=true)
+![Hackolade image](/erd/image82.png?raw=true)
 
 ##### 2.1.2.7.3.1.2 **\_id** properties
 
@@ -1960,7 +1960,7 @@ db.push_token.createIndex(
 
 ##### 2.1.2.7.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image83.png?raw=true)
+![Hackolade image](/erd/image83.png?raw=true)
 
 ##### 2.1.2.7.3.2.2 **created\_at** properties
 
@@ -1970,7 +1970,7 @@ db.push_token.createIndex(
 
 ##### 2.1.2.7.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image84.png?raw=true)
+![Hackolade image](/erd/image84.png?raw=true)
 
 ##### 2.1.2.7.3.3.2 **updated\_at** properties
 
@@ -1980,7 +1980,7 @@ db.push_token.createIndex(
 
 ##### 2.1.2.7.3.4.1 **name** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image85.png?raw=true)
+![Hackolade image](/erd/image85.png?raw=true)
 
 ##### 2.1.2.7.3.4.2 **name** properties
 
@@ -1990,7 +1990,7 @@ db.push_token.createIndex(
 
 ##### 2.1.2.7.3.5.1 **phone** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image86.png?raw=true)
+![Hackolade image](/erd/image86.png?raw=true)
 
 ##### 2.1.2.7.3.5.2 **phone** properties
 
@@ -2000,7 +2000,7 @@ db.push_token.createIndex(
 
 ##### 2.1.2.7.3.6.1 **models** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image87.png?raw=true)
+![Hackolade image](/erd/image87.png?raw=true)
 
 ##### 2.1.2.7.3.6.2 **models** Hierarchy
 
@@ -2018,7 +2018,7 @@ Child field(s):
 
 ##### 2.1.2.7.3.7.1 **\[0\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image88.png?raw=true)
+![Hackolade image](/erd/image88.png?raw=true)
 
 ##### 2.1.2.7.3.7.2 **\[0\]** properties
 
@@ -2028,7 +2028,7 @@ Child field(s):
 
 ##### 2.1.2.7.3.8.1 **address** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image89.png?raw=true)
+![Hackolade image](/erd/image89.png?raw=true)
 
 ##### 2.1.2.7.3.8.2 **address** properties
 
@@ -2038,7 +2038,7 @@ Child field(s):
 
 ##### 2.1.2.7.3.9.1 **lat** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image90.png?raw=true)
+![Hackolade image](/erd/image90.png?raw=true)
 
 ##### 2.1.2.7.3.9.2 **lat** properties
 
@@ -2048,7 +2048,7 @@ Child field(s):
 
 ##### 2.1.2.7.3.10.1 **lng** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image91.png?raw=true)
+![Hackolade image](/erd/image91.png?raw=true)
 
 ##### 2.1.2.7.3.10.2 **lng** properties
 
@@ -2208,7 +2208,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.1 **system\_setting** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image92.png?raw=true)
+![Hackolade image](/erd/image92.png?raw=true)
 
 ##### 2.1.2.8.2 **system\_setting** Properties
 
@@ -2222,7 +2222,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image93.png?raw=true)
+![Hackolade image](/erd/image93.png?raw=true)
 
 ##### 2.1.2.8.3.1.2 **\_id** properties
 
@@ -2232,7 +2232,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.3.2.1 **new\_user\_greeting\_msg** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image94.png?raw=true)
+![Hackolade image](/erd/image94.png?raw=true)
 
 ##### 2.1.2.8.3.2.2 **new\_user\_greeting\_msg** properties
 
@@ -2242,7 +2242,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.3.3.1 **new\_user\_promotion\_amount** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image95.png?raw=true)
+![Hackolade image](/erd/image95.png?raw=true)
 
 ##### 2.1.2.8.3.3.2 **new\_user\_promotion\_amount** properties
 
@@ -2252,7 +2252,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.3.4.1 **loyalty\_program\_one\_point\_to\_money** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image96.png?raw=true)
+![Hackolade image](/erd/image96.png?raw=true)
 
 ##### 2.1.2.8.3.4.2 **loyalty\_program\_one\_point\_to\_money** properties
 
@@ -2262,7 +2262,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.3.5.1 **loyalty\_program\_money\_to\_one\_point** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image97.png?raw=true)
+![Hackolade image](/erd/image97.png?raw=true)
 
 ##### 2.1.2.8.3.5.2 **loyalty\_program\_money\_to\_one\_point** properties
 
@@ -2272,7 +2272,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.3.6.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image98.png?raw=true)
+![Hackolade image](/erd/image98.png?raw=true)
 
 ##### 2.1.2.8.3.6.2 **created\_at** properties
 
@@ -2282,7 +2282,7 @@ db.store.createIndex(
 
 ##### 2.1.2.8.3.7.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image99.png?raw=true)
+![Hackolade image](/erd/image99.png?raw=true)
 
 ##### 2.1.2.8.3.7.2 **updated\_at** properties
 
@@ -2414,7 +2414,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.1 **transaction** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image100.png?raw=true)
+![Hackolade image](/erd/image100.png?raw=true)
 
 ##### 2.1.2.9.2 **transaction** Properties
 
@@ -2428,7 +2428,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image101.png?raw=true)
+![Hackolade image](/erd/image101.png?raw=true)
 
 ##### 2.1.2.9.3.1.2 **\_id** properties
 
@@ -2438,7 +2438,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image102.png?raw=true)
+![Hackolade image](/erd/image102.png?raw=true)
 
 ##### 2.1.2.9.3.2.2 **created\_at** properties
 
@@ -2448,7 +2448,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image103.png?raw=true)
+![Hackolade image](/erd/image103.png?raw=true)
 
 ##### 2.1.2.9.3.3.2 **updated\_at** properties
 
@@ -2458,7 +2458,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.4.1 **name** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image104.png?raw=true)
+![Hackolade image](/erd/image104.png?raw=true)
 
 ##### 2.1.2.9.3.4.2 **name** properties
 
@@ -2468,7 +2468,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.5.1 **type** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image105.png?raw=true)
+![Hackolade image](/erd/image105.png?raw=true)
 
 ##### 2.1.2.9.3.5.2 **type** properties
 
@@ -2478,7 +2478,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.6.1 **state** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image106.png?raw=true)
+![Hackolade image](/erd/image106.png?raw=true)
 
 ##### 2.1.2.9.3.6.2 **state** properties
 
@@ -2488,7 +2488,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.7.1 **amount** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image107.png?raw=true)
+![Hackolade image](/erd/image107.png?raw=true)
 
 ##### 2.1.2.9.3.7.2 **amount** properties
 
@@ -2498,7 +2498,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.8.1 **customer\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image108.png?raw=true)
+![Hackolade image](/erd/image108.png?raw=true)
 
 ##### 2.1.2.9.3.8.2 **customer\_id** properties
 
@@ -2508,7 +2508,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.9.1 **momo\_transaction\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image109.png?raw=true)
+![Hackolade image](/erd/image109.png?raw=true)
 
 ##### 2.1.2.9.3.9.2 **momo\_transaction\_id** properties
 
@@ -2518,7 +2518,7 @@ db.system_setting.createIndex(
 
 ##### 2.1.2.9.3.10.1 **zalopay\_transaction\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image110.png?raw=true)
+![Hackolade image](/erd/image110.png?raw=true)
 
 ##### 2.1.2.9.3.10.2 **zalopay\_transaction\_id** properties
 
@@ -2677,7 +2677,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.1 **vendor** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image111.png?raw=true)
+![Hackolade image](/erd/image111.png?raw=true)
 
 ##### 2.1.2.10.2 **vendor** Properties
 
@@ -2691,7 +2691,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image112.png?raw=true)
+![Hackolade image](/erd/image112.png?raw=true)
 
 ##### 2.1.2.10.3.1.2 **\_id** properties
 
@@ -2701,7 +2701,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image113.png?raw=true)
+![Hackolade image](/erd/image113.png?raw=true)
 
 ##### 2.1.2.10.3.2.2 **created\_at** properties
 
@@ -2711,7 +2711,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image114.png?raw=true)
+![Hackolade image](/erd/image114.png?raw=true)
 
 ##### 2.1.2.10.3.3.2 **updated\_at** properties
 
@@ -2721,7 +2721,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.4.1 **name** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image115.png?raw=true)
+![Hackolade image](/erd/image115.png?raw=true)
 
 ##### 2.1.2.10.3.4.2 **name** properties
 
@@ -2731,7 +2731,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.5.1 **email** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image116.png?raw=true)
+![Hackolade image](/erd/image116.png?raw=true)
 
 ##### 2.1.2.10.3.5.2 **email** properties
 
@@ -2741,7 +2741,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.6.1 **information** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image117.png?raw=true)
+![Hackolade image](/erd/image117.png?raw=true)
 
 ##### 2.1.2.10.3.6.2 **information** properties
 
@@ -2751,7 +2751,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.7.1 **password** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image118.png?raw=true)
+![Hackolade image](/erd/image118.png?raw=true)
 
 ##### 2.1.2.10.3.7.2 **password** properties
 
@@ -2761,7 +2761,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.8.1 **activated** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image119.png?raw=true)
+![Hackolade image](/erd/image119.png?raw=true)
 
 ##### 2.1.2.10.3.8.2 **activated** properties
 
@@ -2771,7 +2771,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.9.1 **expired\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image120.png?raw=true)
+![Hackolade image](/erd/image120.png?raw=true)
 
 ##### 2.1.2.10.3.9.2 **expired\_at** properties
 
@@ -2781,7 +2781,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.10.1 **momo\_access\_key** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image121.png?raw=true)
+![Hackolade image](/erd/image121.png?raw=true)
 
 ##### 2.1.2.10.3.10.2 **momo\_access\_key** properties
 
@@ -2791,7 +2791,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.11.1 **momo\_secret\_key** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image122.png?raw=true)
+![Hackolade image](/erd/image122.png?raw=true)
 
 ##### 2.1.2.10.3.11.2 **momo\_secret\_key** properties
 
@@ -2801,7 +2801,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.12.1 **momo\_partner\_code** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image123.png?raw=true)
+![Hackolade image](/erd/image123.png?raw=true)
 
 ##### 2.1.2.10.3.12.2 **momo\_partner\_code** properties
 
@@ -2811,7 +2811,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.13.1 **zlpay\_app\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image124.png?raw=true)
+![Hackolade image](/erd/image124.png?raw=true)
 
 ##### 2.1.2.10.3.13.2 **zlpay\_app\_id** properties
 
@@ -2821,7 +2821,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.14.1 **zlpay\_app\_user** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image125.png?raw=true)
+![Hackolade image](/erd/image125.png?raw=true)
 
 ##### 2.1.2.10.3.14.2 **zlpay\_app\_user** properties
 
@@ -2831,7 +2831,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.15.1 **zlpay\_key1** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image126.png?raw=true)
+![Hackolade image](/erd/image126.png?raw=true)
 
 ##### 2.1.2.10.3.15.2 **zlpay\_key1** properties
 
@@ -2841,7 +2841,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.16.1 **zlpay\_key2** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image127.png?raw=true)
+![Hackolade image](/erd/image127.png?raw=true)
 
 ##### 2.1.2.10.3.16.2 **zlpay\_key2** properties
 
@@ -2851,7 +2851,7 @@ db.transaction.createIndex(
 
 ##### 2.1.2.10.3.17.1 **oneOf** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image128.png?raw=true)
+![Hackolade image](/erd/image128.png?raw=true)
 
 ##### 2.1.2.10.3.17.2 **oneOf** Hierarchy
 
@@ -2869,7 +2869,7 @@ Child field(s):
 
 ##### 2.1.2.10.3.18.1 **\[0\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image129.png?raw=true)
+![Hackolade image](/erd/image129.png?raw=true)
 
 ##### 2.1.2.10.3.18.2 **\[0\]** Hierarchy
 
@@ -2887,7 +2887,7 @@ Child field(s):
 
 ##### 2.1.2.10.3.19.1 **device\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image130.png?raw=true)
+![Hackolade image](/erd/image130.png?raw=true)
 
 ##### 2.1.2.10.3.19.2 **device\_id** properties
 
@@ -2897,7 +2897,7 @@ Child field(s):
 
 ##### 2.1.2.10.3.20.1 **\[1\]** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image131.png?raw=true)
+![Hackolade image](/erd/image131.png?raw=true)
 
 ##### 2.1.2.10.3.20.2 **\[1\]** Hierarchy
 
@@ -2915,7 +2915,7 @@ Child field(s):
 
 ##### 2.1.2.10.3.21.1 **device\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image132.png?raw=true)
+![Hackolade image](/erd/image132.png?raw=true)
 
 ##### 2.1.2.10.3.21.2 **device\_id** properties
 
@@ -3173,7 +3173,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.1 **vendor\_contract** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image133.png?raw=true)
+![Hackolade image](/erd/image133.png?raw=true)
 
 ##### 2.1.2.11.2 **vendor\_contract** Properties
 
@@ -3187,7 +3187,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.1.1 **\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image134.png?raw=true)
+![Hackolade image](/erd/image134.png?raw=true)
 
 ##### 2.1.2.11.3.1.2 **\_id** properties
 
@@ -3197,7 +3197,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.2.1 **created\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image135.png?raw=true)
+![Hackolade image](/erd/image135.png?raw=true)
 
 ##### 2.1.2.11.3.2.2 **created\_at** properties
 
@@ -3207,7 +3207,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.3.1 **updated\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image136.png?raw=true)
+![Hackolade image](/erd/image136.png?raw=true)
 
 ##### 2.1.2.11.3.3.2 **updated\_at** properties
 
@@ -3217,7 +3217,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.4.1 **name** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image137.png?raw=true)
+![Hackolade image](/erd/image137.png?raw=true)
 
 ##### 2.1.2.11.3.4.2 **name** properties
 
@@ -3227,7 +3227,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.5.1 **information** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image138.png?raw=true)
+![Hackolade image](/erd/image138.png?raw=true)
 
 ##### 2.1.2.11.3.5.2 **information** properties
 
@@ -3237,7 +3237,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.6.1 **renew\_price** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image139.png?raw=true)
+![Hackolade image](/erd/image139.png?raw=true)
 
 ##### 2.1.2.11.3.6.2 **renew\_price** properties
 
@@ -3247,7 +3247,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.7.1 **price** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image140.png?raw=true)
+![Hackolade image](/erd/image140.png?raw=true)
 
 ##### 2.1.2.11.3.7.2 **price** properties
 
@@ -3257,7 +3257,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.8.1 **expired\_at** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image141.png?raw=true)
+![Hackolade image](/erd/image141.png?raw=true)
 
 ##### 2.1.2.11.3.8.2 **expired\_at** properties
 
@@ -3267,7 +3267,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.9.1 **device\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image142.png?raw=true)
+![Hackolade image](/erd/image142.png?raw=true)
 
 ##### 2.1.2.11.3.9.2 **device\_id** properties
 
@@ -3277,7 +3277,7 @@ db.vendor.createIndex(
 
 ##### 2.1.2.11.3.10.1 **vendor\_id** Tree Diagram
 
-![Hackolade image](/New%20Model%20documentation/image143.png?raw=true)
+![Hackolade image](/erd/image143.png?raw=true)
 
 ##### 2.1.2.11.3.10.2 **vendor\_id** properties
 
