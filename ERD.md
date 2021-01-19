@@ -2,7 +2,6 @@
 
 ### <a id="documentation-body"></a>
 
-![Hackolade image](/erd/image1.png?raw=true)
 
 MongoDB Physical Model
 ----------------------
